@@ -1,7 +1,4 @@
 # COVID-19_Data_Analytics
-This project analyzes Covid-19 trends in India, using ARIMA for time series forecasting of confirmed cases and Random Forest Regression for predicting future cases. It explores correlations between key metrics and visualizes vaccination coverage by state. The project provides interactive plots to aid in understanding the Covid-19 situation.
- # COVID-19 Analytics Dashboard
-
 Welcome to the **COVID-19 Analytics Dashboard**, an interactive data analysis project that tracks and visualizes the impact of the COVID-19 pandemic globally and in India. This project uses a variety of data analytics techniques to generate insights, visualize trends, and forecast future cases, helping you better understand the pandemic's trajectory.
 
 
