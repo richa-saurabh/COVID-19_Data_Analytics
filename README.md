@@ -13,10 +13,6 @@ Welcome to the **COVID-19 Analytics Dashboard**, an interactive data analysis pr
 
 ---
 
-## Data Sources
-
-This project uses publicly available datasets from reputable sources.
-
 ## Installation
 
 To get started with this project, follow these steps:
