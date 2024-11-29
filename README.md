@@ -18,12 +18,7 @@ Welcome to the **COVID-19 Analytics Dashboard**, an interactive data analysis pr
 
 ## Data Sources
 
-This project uses publicly available datasets from reputable sources such as:
-
-- **COVID-19 Global Data**: Data pulled from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) or any other reliable global data provider.
-- **Indian COVID-19 Data**: Data sourced from [Ministry of Health and Family Welfare, India](https://www.mohfw.gov.in/) or trusted local data providers.
-
----
+This project uses publicly available datasets from reputable sources.
 
 ## Installation
 
