@@ -49,8 +49,3 @@ To get started with this project, follow these steps:
    We welcome contributions! If you have suggestions for new features, improvements, or bug fixes, feel free to open an 
    issue or submit a pull request.
 
-9. License
-   This project is licensed under the MIT License - see the LICENSE file for details.
-
-10. Acknowledgements: Thanks to all the data sources and contributors who make COVID-19 data publicly available.
-   Special shoutout to the open-source community for their contributions to data analysis and visualization libraries!
