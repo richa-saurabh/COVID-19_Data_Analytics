@@ -27,22 +27,28 @@ To get started with this project, follow these steps:
    python covid_analysis.py
 4. Key Libraries Used
 i. Pandas: For data manipulation and analysis.
+
 ii. Matplotlib / Seaborn: For data visualization.
+
 iii. Statsmodels: For time-series forecasting (ARIMA model).
+
 iv. Scikit-learn: For implementing machine learning models (optional for more advanced analysis).
+
 v. Requests: For fetching real-time data from APIs.
 
-5. Future Enhancements
+6. Future Enhancements
 i. Interactive Dashboards: Add interactive visualization using tools like Dash or Streamlit.
+
 ii. Advanced Forecasting Models: Explore other machine learning and time-series forecasting models like LSTM and Prophet.
+
 iii. Global Comparison: Expand the project to visualize and compare COVID-19 trends across different countries.
 
-6. Contribute
+7. Contribute
    We welcome contributions! If you have suggestions for new features, improvements, or bug fixes, feel free to open an 
    issue or submit a pull request.
 
-7. License
+8. License
    This project is licensed under the MIT License - see the LICENSE file for details.
 
-8. Acknowledgements: Thanks to all the data sources and contributors who make COVID-19 data publicly available.
+9. Acknowledgements: Thanks to all the data sources and contributors who make COVID-19 data publicly available.
    Special shoutout to the open-source community for their contributions to data analysis and visualization libraries!
