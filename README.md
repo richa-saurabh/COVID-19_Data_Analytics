@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/covid-19-analytics.git
+   git clone [https://github.com/your-username/covid-19-analytics.git](https://github.com/richa-saurabh/COVID-19_Data_Analytics.git)
 2. Install Dependencies: Make sure you have Python installed. Then, install the required libraries:
    pip install -r requirements.txt
 
