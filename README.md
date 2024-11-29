@@ -26,16 +26,23 @@ To get started with this project, follow these steps:
 3. Run the Script: To view the analysis, run the following command:
    python covid_analysis.py
 4. Key Libraries Used
+   
    i. Pandas: For data manipulation and analysis.
+   
    ii. Matplotlib / Seaborn: For data visualization.
+   
    iii. Statsmodels: For time-series forecasting (ARIMA model).
+   
    iv. Scikit-learn: For implementing machine learning models (optional for more advanced analysis).
+   
    v. Requests: For fetching real-time data from APIs.
 
 6. Future Enhancements
 
    i. Interactive Dashboards: Add interactive visualization using tools like Dash or Streamlit.
+   
    ii. Advanced Forecasting Models: Explore other machine learning and time-series forecasting models like LSTM and Prophet.
+   
    iii. Global Comparison: Expand the project to visualize and compare COVID-19 trends across different countries.
 
 8. Contribute
