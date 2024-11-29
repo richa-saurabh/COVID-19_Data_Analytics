@@ -45,7 +45,7 @@ To get started with this project, follow these steps:
    
    iii. Global Comparison: Expand the project to visualize and compare COVID-19 trends across different countries.
 
-8. Contribute
-   We welcome contributions! If you have suggestions for new features, improvements, or bug fixes, feel free to open an 
-   issue or submit a pull request.
+
+We welcome contributions! If you have suggestions for new features, improvements, or bug fixes, feel free to open an 
+issue or submit a pull request.
 
